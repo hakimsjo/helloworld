@@ -6,13 +6,12 @@ Här hittar du länkade data för termerna SNI och Län Kommun och Församling i
 ```
 Exempel LKF:
 http://data.scb.se/terms/lkf/01
-http://data.scb.se/terms/lkf/1881](http://data.scb.se/terms/lkf/1881)
+http://data.scb.se/terms/lkf/1881
 
 Exempel SNI:
-[http://data.scb.se/terms/sni/01](http://data.scb.se/terms/sni/01)
-[http://data.scb.se/terms/sni/all](http://data.scb.se/terms/sni/all)
-
+http://data.scb.se/terms/sni/01
+http://data.scb.se/terms/sni/all
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjkwODY1MSwyMDIwNTk4NDIwXX0=
+eyJoaXN0b3J5IjpbMjA3NTk2MDc0MCwyMDIwNTk4NDIwXX0=
 -->
